@@ -1,5 +1,7 @@
 <?php 
 
+	// Redirect to Email
+
 	$name = $_POST["name"];
 	$visitor_email = $_POST["email"];
 	$subject = $_POST["sub"];
